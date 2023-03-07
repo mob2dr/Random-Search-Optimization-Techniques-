@@ -1,4 +1,3 @@
-biriyar361@usharer.com
 # Random-Search-Optimization-Techniques
 
 ## Genetic Algorithm
