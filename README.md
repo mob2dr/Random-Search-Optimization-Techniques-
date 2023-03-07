@@ -24,10 +24,7 @@ biriyar361@usharer.com
 ### Crossover:
 
 1- Choose 2 parents with a tournament selection 'best fitness from a random sample'
-
-2- Toss a coin and perform partially mapped crossover if the probability is less than crossover probability, else pass the parents to the next generation
-
-3- In case of partial crossover, compare the child with its parent and pass the one with the highest fitness to the next generation.
+3- In case of PMC crossover, add  result child to the next generation.
 
 
 ### PMC crossover:
